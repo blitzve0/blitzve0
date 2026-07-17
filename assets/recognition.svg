@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 112" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="940" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6d8bff"/>
+      <stop offset="1" stop-color="#b06aff"/>
+    </linearGradient>
+  </defs>
+  <rect width="940" height="112" rx="18" fill="#0a0c16"/>
+
+  <g>
+    <rect x="84" y="21" width="246" height="32" rx="16" fill="#6d8bff" fill-opacity="0.08" stroke="url(#accent)" stroke-opacity="0.55"/>
+    <text x="207" y="42" text-anchor="middle" font-size="11" font-weight="600" fill="#9db1ff" letter-spacing="1">AWWWARDS &#8212; OFFICIAL JURY 2026</text>
+  </g>
+  <g>
+    <rect x="342" y="21" width="224" height="32" rx="16" fill="#f0f2f8" fill-opacity="0.045" stroke="#f0f2f8" stroke-opacity="0.14"/>
+    <text x="454" y="42" text-anchor="middle" font-size="11" font-weight="600" fill="#c9cede" letter-spacing="1">ORPETRON &#8212; SITE OF THE DAY</text>
+  </g>
+  <g>
+    <rect x="578" y="21" width="278" height="32" rx="16" fill="#f0f2f8" fill-opacity="0.045" stroke="#f0f2f8" stroke-opacity="0.14"/>
+    <text x="717" y="42" text-anchor="middle" font-size="11" font-weight="600" fill="#c9cede" letter-spacing="1">CSS DESIGN AWARDS &#8212; SPECIAL KUDOS</text>
+  </g>
+
+  <g>
+    <rect x="266" y="61" width="186" height="32" rx="16" fill="#f0f2f8" fill-opacity="0.045" stroke="#f0f2f8" stroke-opacity="0.14"/>
+    <text x="359" y="82" text-anchor="middle" font-size="11" font-weight="600" fill="#c9cede" letter-spacing="1">CSS WINNER &#8212; 2&#215; STAR</text>
+  </g>
+  <g>
+    <rect x="464" y="61" width="210" height="32" rx="16" fill="#f0f2f8" fill-opacity="0.045" stroke="#f0f2f8" stroke-opacity="0.14"/>
+    <text x="569" y="82" text-anchor="middle" font-size="11" font-weight="600" fill="#c9cede" letter-spacing="1">TOP DESIGN KING &#8212; JUDGE</text>
+  </g>
+</svg>

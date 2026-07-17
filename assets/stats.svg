@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 120" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <rect width="940" height="120" rx="18" fill="#0a0c16"/>
+
+  <g>
+    <rect x="24" y="18" width="211" height="84" rx="12" fill="#f0f2f8" fill-opacity="0.04" stroke="#f0f2f8" stroke-opacity="0.12"/>
+    <text x="42" y="56" font-size="26" font-weight="700" fill="#f0f2f8">6+</text>
+    <text x="42" y="82" font-size="9" font-weight="600" fill="#6d7388" letter-spacing="1.5">YEARS EXPERIENCE</text>
+  </g>
+  <g>
+    <rect x="251" y="18" width="211" height="84" rx="12" fill="#f0f2f8" fill-opacity="0.04" stroke="#f0f2f8" stroke-opacity="0.12"/>
+    <text x="269" y="56" font-size="26" font-weight="700" fill="#f0f2f8">3,716</text>
+    <text x="269" y="82" font-size="9" font-weight="600" fill="#6d7388" letter-spacing="1.5">COMMITS AUTHORED</text>
+  </g>
+  <g>
+    <rect x="478" y="18" width="211" height="84" rx="12" fill="#f0f2f8" fill-opacity="0.04" stroke="#f0f2f8" stroke-opacity="0.12"/>
+    <text x="496" y="56" font-size="26" font-weight="700" fill="#f0f2f8">626</text>
+    <text x="496" y="82" font-size="9" font-weight="600" fill="#6d7388" letter-spacing="1.5">MERGED PULL REQUESTS</text>
+  </g>
+  <g>
+    <rect x="705" y="18" width="211" height="84" rx="12" fill="#f0f2f8" fill-opacity="0.04" stroke="#f0f2f8" stroke-opacity="0.12"/>
+    <text x="723" y="56" font-size="26" font-weight="700" fill="#f0f2f8">5</text>
+    <text x="723" y="82" font-size="9" font-weight="600" fill="#6d7388" letter-spacing="1.5">PRODUCTION APPS OWNED</text>
+  </g>
+</svg>

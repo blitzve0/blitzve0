@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 230" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="940" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0c16"/>
+      <stop offset="1" stop-color="#0d1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="940" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6d8bff"/>
+      <stop offset="1" stop-color="#b06aff"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6d8bff" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#6d8bff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#b06aff" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#b06aff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round"><rect width="940" height="230" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="940" height="230" fill="url(#bg)"/>
+    <circle cx="810" cy="-30" r="320" fill="url(#glowA)"/>
+    <circle cx="70" cy="290" r="280" fill="url(#glowB)"/>
+    <rect width="940" height="5" fill="url(#accent)"/>
+  </g>
+
+  <rect x="48" y="62" width="64" height="64" rx="14" fill="url(#accent)"/>
+  <text x="80" y="105" text-anchor="middle" font-size="26" font-weight="700" fill="#0a0c16" letter-spacing="1">AR</text>
+
+  <text x="138" y="96" font-size="40" font-weight="700" fill="#f0f2f8" letter-spacing="5">ABHAY ROHIT</text>
+  <text x="140" y="124" font-size="15" font-weight="600" fill="url(#accent)" letter-spacing="3">SENIOR FRONTEND ENGINEER  &#215;  DESIGN ENGINEER</text>
+  <text x="140" y="150" font-size="13" fill="#a2a8bc">Awwwards Jury 2026  &#183;  6+ years  &#183;  US HIPAA telehealth  &#183;  React / Next.js / TypeScript</text>
+
+  <text x="48" y="198" font-size="11.5" fill="#6d7388" letter-spacing="2">SAGAR, INDIA (IST)  &#183;  REMOTE  &#183;  WORKS US HOURS</text>
+
+  <rect x="682" y="176" width="210" height="31" rx="15.5" fill="#6d8bff" fill-opacity="0.08" stroke="#6d8bff" stroke-opacity="0.45"/>
+  <text x="787" y="196" text-anchor="middle" font-size="11" font-weight="600" fill="#9db1ff" letter-spacing="1.5">OPEN TO REMOTE ROLES</text>
+</svg>
