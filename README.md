@@ -1,7 +1,7 @@
 <a href="https://abhayrohit.com">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-    <img src="assets/hero.svg" width="100%" alt="Abhay Rohit — Senior Frontend Engineer × Design Engineer. Open to remote roles from India, with US-hours overlap. 6+ years of experience; telehealth work across 5 production apps, 3,716 authored commits and 626 merged pull requests.">
+    <source media="(max-width: 600px)" srcset="assets/profile-cover-mobile.svg">
+    <img src="assets/profile-cover.svg" width="100%" alt="Abhay Rohit — Senior Frontend Engineer × Design Engineer. Open to remote roles from India, with US-hours overlap. 6+ years of experience; telehealth work across 5 production apps, 3,716 authored commits and 626 merged pull requests.">
   </picture>
 </a>
 
@@ -11,8 +11,8 @@ I’m **Abhay**, a creative product engineer with a frontend foundation. I work 
 
 <a href="https://www.awwwards.com/jury-member/abhay-rohit">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/recognition-mobile.svg">
-    <img src="assets/recognition.svg" width="100%" alt="Awwwards Official Jury 2026 · Orpetron Site of the Day · CSS Design Awards Special Kudos · CSS Winner 2× STAR · Top Design King Judge.">
+    <source media="(max-width: 600px)" srcset="assets/recognition-panel-mobile.svg">
+    <img src="assets/recognition-panel.svg" width="100%" alt="Awwwards Official Jury 2026 · Orpetron Site of the Day · CSS Design Awards Special Kudos · CSS Winner 2× STAR · Top Design King Judge.">
   </picture>
 </a>
 
