@@ -1,16 +1,4 @@
-**Senior frontend & design engineer** · India / US-hours overlap
-
-[Contact Abhay ↗](mailto:hello@abhayrohit.com) &nbsp; · &nbsp; [Explore portfolio ↗](https://abhayrohit.com) &nbsp; · &nbsp; [Read project descriptions](PROJECTS.md)
-
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/directors-cut-mobile-20260925.svg" width="640" height="7950">
-  <img src="assets/directors-cut-20260925.svg" width="1200" height="5490" alt="Abhay Rohit — The Director’s Cut. A continuous visual portfolio: Khajuraho Expo, Haspr, Sienna, Vastraveda, Application Preflight, Reel OS, telehealth delivery and contact. Open the project descriptions below for the complete text and links.">
-</picture>
-
-[Portfolio ↗](https://abhayrohit.com) &nbsp; · &nbsp; [Haspr ↗](https://haspr.in) &nbsp; · &nbsp; [Khajuraho ↗](https://khajuraho.haspr.in) &nbsp; · &nbsp; [Email ↗](mailto:hello@abhayrohit.com) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/abhayrohit/)
-
-<details>
-<summary><strong>Project descriptions, source links & accessible text</strong></summary>
+# Abhay Rohit — Projects & Experience
 
 
 
@@ -84,6 +72,3 @@ Open to remote senior frontend, product, and design engineering roles. Based in 
 **[hello@abhayrohit.com ↗](mailto:hello@abhayrohit.com)** &nbsp; · &nbsp; [Portfolio](https://abhayrohit.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/abhayrohit/) &nbsp; · &nbsp; [Awwwards](https://www.awwwards.com/jury-member/abhay-rohit) &nbsp; · &nbsp; [Behance](https://www.behance.net/haspr) &nbsp; · &nbsp; [Dribbble](https://dribbble.com/haspr)
 
 <sub>Away from the screen: photography, music, games, training, and cars.</sub>
-
-
-</details>
