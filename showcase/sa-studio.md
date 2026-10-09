@@ -32,6 +32,10 @@ The September 2026 local polish candidate includes eight connected sections and 
 
 The continuous experience makes sequencing and shared control handovers part of the engineering problem. Keep the joint authorship visible, label the current study WIP, and use the existing public portfolio as general context until a shared public study is approved.
 
+## Portfolio case study
+
+[Read the visual case study on abhayrohit.com](https://abhayrohit.com/experiments/sa-studio)
+
 ## Public links
 
 - [https://abhayrohit.com](https://abhayrohit.com)

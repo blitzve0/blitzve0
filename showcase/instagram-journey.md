@@ -32,6 +32,10 @@ Dated account snapshots recorded 180 followers on 19 September and 2,496 on 9 Oc
 
 Growth signals are context, not proof that one system or creative decision caused the change. Account follower counts and per-post Follows are different measures. The public BMW announcement was edited and posted by me outside Reel OS.
 
+## Portfolio case study
+
+[Read the visual case study on abhayrohit.com](https://abhayrohit.com/experiments/instagram-journey)
+
 ## Public links
 
 - [https://www.instagram.com/abhayrohit_/](https://www.instagram.com/abhayrohit_/)

@@ -32,6 +32,10 @@ The local README and implementation document allowlisted discovery adapters, loo
 
 The tool makes preparation reviewable while preserving manual decisions on identity, eligibility and final answers. Conservative filters can leave ambiguous roles for review; a draft-ready status is not evidence that an application has been submitted or owner-approved.
 
+## Portfolio case study
+
+[Read the visual case study on abhayrohit.com](https://abhayrohit.com/experiments/preflight)
+
 ## Public links
 
 - [https://abhayrohit.com/experiments/preflight](https://abhayrohit.com/experiments/preflight)

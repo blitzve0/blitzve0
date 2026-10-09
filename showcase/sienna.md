@@ -32,6 +32,10 @@ The frozen synthetic core has documented bounded acceptance. Dated isolated Mac 
 
 Local state and narrow checks establish specific capabilities, not a general autonomous assistant. Physical Results, broader parity, recurrence/deferred-delivery sound and independent neural voice remain separate work. Private conversations and derived person profiles are omitted from the public story.
 
+## Portfolio case study
+
+[Read the visual case study on abhayrohit.com](https://abhayrohit.com/experiments/sienna)
+
 ## Public links
 
 - [https://abhayrohit.com/experiments/sienna](https://abhayrohit.com/experiments/sienna)

@@ -32,6 +32,10 @@ Public Abhay-authored commit evidence covers import-graph packaging (5dfab422), 
 
 This is a contribution story about making expressive work easier to consume. It should credit the library maker and avoid implying sole authorship, universal visual acceptance, or deployment of every local candidate.
 
+## Portfolio case study
+
+[Read the visual case study on abhayrohit.com](https://abhayrohit.com/experiments/component-library)
+
 ## Public links
 
 - [https://cojeev.com/ui/](https://cojeev.com/ui/)

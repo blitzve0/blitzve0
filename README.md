@@ -16,7 +16,7 @@ After Wisp acquired TBD Health, I continued as the frontend domain owner for tra
 
 | Project | My contribution | Inspect |
 | --- | --- | --- |
-| 000h by Cojeev | Contributor to registry delivery, appearance reliability and verification tooling, including import-graph payload splitting, first-paint/hydration and cross-tab checks, and Next/Vite consumer verification. The library is built by Sanjay Kumar Gautam. | [Registry contribution](https://github.com/luv-jeri/cojeev-ui/commit/5dfab422518df39cfff2a59395d51284f31fbe05) · [Appearance contribution](https://github.com/luv-jeri/cojeev-ui/commit/cc688334236b3f23bd5d8111d7ab2de7005a366d) · [Public site](https://cojeev.com/ui/) |
+| 000h by Cojeev | Contributor to registry delivery, appearance reliability and verification tooling, including import-graph payload splitting, first-paint/hydration and cross-tab checks, and Next/Vite consumer verification. The library is built by Sanjay Kumar Gautam. | [Case study](https://abhayrohit.com/experiments/component-library) · [Registry contribution](https://github.com/luv-jeri/cojeev-ui/commit/5dfab422518df39cfff2a59395d51284f31fbe05) · [Appearance contribution](https://github.com/luv-jeri/cojeev-ui/commit/cc688334236b3f23bd5d8111d7ab2de7005a366d) · [Public site](https://cojeev.com/ui/) |
 | 0dB | Merged React/TypeScript Meter contribution with native semantics, shared tokens, RTL and nine unit/SSR regression tests. Additional component PRs have their own review state. | [Merged Meter PR](https://github.com/luv-jeri/0dB/pull/4) · [My PRs](https://github.com/luv-jeri/0dB/pulls?q=is%3Apr+author%3Ablitzve0) |
 | haspr-cursor | Authored and published a browser pointer-interaction and motion package used by the Haspr portfolio. Public releases span 2022–2023. | [Source](https://github.com/hasprLLP/haspr-cursor) · [npm](https://www.npmjs.com/package/haspr-cursor) |
 | haspr-rndb | Authored and published an offline database package for React Native and Expo in 2022. | [Source](https://github.com/hasprLLP/haspr-rndb) · [npm](https://www.npmjs.com/package/haspr-rndb) |
@@ -25,12 +25,12 @@ After Wisp acquired TBD Health, I continued as the frontend domain owner for tra
 
 [Browse all seven public showcase studies](showcase/README.md) · [Current résumé](showcase/documents/Abhay_Rohit_Senior_Frontend_Engineer_2026-10-09.pdf) · [Selected projects](showcase/documents/Abhay_Rohit_Selected_Projects_2026-10-09.pdf)
 
-- **[SA Studio](showcase/sa-studio.md):** a studio website in development with Sanjay Kumar Gautam, exploring continuous section journeys, responsive compositions and shared scene handoffs. Private working project.
+- **[SA Studio](https://abhayrohit.com/experiments/sa-studio):** a studio website in development with Sanjay Kumar Gautam, exploring continuous section journeys, responsive compositions and shared scene handoffs. Private working project.
 - **[Human Reviewed Job Search Tool](https://abhayrohit.com/experiments/preflight):** a local Node.js review workspace for public-board discovery, evidence-led India eligibility, explainable form preflight and source-backed answer preparation. Final application decisions and submission remain manual. Private source; public case study.
-- **[Vastraveda](showcase/vastraveda.md):** a family saree storefront and operations workflow, including catalogue, cart and checkout engineering. [Public storefront](https://shopvastraveda.com/); payment and sales acceptance are separate from implemented functionality.
+- **[Vastraveda](https://abhayrohit.com/experiments/vastraveda):** a family saree storefront and operations workflow, including catalogue, cart and checkout engineering. [Public storefront](https://shopvastraveda.com/); payment and sales acceptance are separate from implemented functionality.
 - **[Reel OS](https://abhayrohit.com/experiments/reel-os):** a local Python/FFmpeg reel-production workflow with source evidence, validated edit plans, editable OTIO timelines, technical QA and human review. Private source; public case study.
 - **[Sienna](https://abhayrohit.com/experiments/sienna):** a local-first personal-assistant prototype with native SwiftUI clients and a private authenticated gateway. Mac preview work includes notes, checklist identity and task/reminder behavior; broader device and voice readiness remain in development.
-- **[Instagram creative practice](showcase/instagram-journey.md):** original reels and visual storytelling, with attention to editing, distribution and correctly scoped insight analysis. Public creative work is presented separately from software outcomes.
+- **[Instagram creative practice](https://abhayrohit.com/experiments/instagram-journey):** original reels and visual storytelling, with attention to editing, distribution and correctly scoped insight analysis. Public creative work is presented separately from software outcomes.
 
 ## Design and collaboration
 

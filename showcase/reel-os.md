@@ -32,6 +32,10 @@ The repository documents a resumable pipeline, shared typography, checksum-bound
 
 Deterministic checks can verify codecs, title bounds, timecodes and complete decode, but they cannot replace the human judgment of identity, action, story and sound. The BMW announcement was made by me outside Reel OS and is not a tool-generated outcome.
 
+## Portfolio case study
+
+[Read the visual case study on abhayrohit.com](https://abhayrohit.com/experiments/reel-os)
+
 ## Public links
 
 - [https://abhayrohit.com/experiments/reel-os](https://abhayrohit.com/experiments/reel-os)

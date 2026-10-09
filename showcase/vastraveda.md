@@ -32,6 +32,10 @@ The public storefront returned HTTP 200 on 9 October. The September launch check
 
 Catalogue imagery needs exact-product review. Existing AI-assisted views are illustrative and cannot establish material, stock or quality. GitHub main is documented as ahead of the hosted release, so this study separates implementation evidence from current storefront behavior.
 
+## Portfolio case study
+
+[Read the visual case study on abhayrohit.com](https://abhayrohit.com/experiments/vastraveda)
+
 ## Public links
 
 - [https://abhayrohit.com/experiments/vastraveda](https://abhayrohit.com/experiments/vastraveda)
