@@ -1,5 +1,9 @@
 # Abhay Rohit — Projects & Experience
 
+## Latest showcase studies
+
+[Seven current engineering and creative studies](showcase/README.md), with contribution credits and explicit project stages. [Current résumé](showcase/documents/Abhay_Rohit_Senior_Frontend_Engineer_2026-10-09.pdf).
+
 
 
 <p align="center"><a href="https://abhayrohit.com"><b>Explore my portfolio ↗</b></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/abhayrohit/">LinkedIn</a> &nbsp; · &nbsp; <a href="mailto:hello@abhayrohit.com">Email</a></p>
