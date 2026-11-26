@@ -6,6 +6,10 @@ Senior Frontend Engineer based in Indore, India. I build React, Next.js and Type
 
 [Portfolio](https://abhayrohit.com) · [LinkedIn](https://www.linkedin.com/in/abhayrohit/) · [Email](mailto:hello@abhayrohit.com)
 
+## Writing
+
+A firsthand look at about 440 applications and one live interview. Assessments were counted separately. [What gets an engineer an interview in 2026?](https://www.linkedin.com/pulse/what-gets-engineer-interview-2026-abhay-rohit-bewlf/)
+
 ## Production engineering
 
 I was the sole frontend engineer across TBD Health's five-application US telehealth ecosystem, working with backend engineers, product, clinical operations and the CTO. My work covered patient commerce and clinic booking, patient and clinician portals, payments with Stripe/PayPal/Square, healthcare integrations, Playwright/Cucumber testing, Sentry monitoring, CMS/platform migrations and AWS operations.
